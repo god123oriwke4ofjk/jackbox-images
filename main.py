@@ -5,9 +5,9 @@ import shutil
 from PIL import Image
 
 # Set your folder paths here
-folder1 = "folder1"
-folder2 = "folder2"
-folder3 = "folder3"
+customImages = "folder1"
+jackboxImages = "folder2"
+jackboxImagesThumbnail = "folder3"
 
 valid_exts = ('.png', '.jpg', '.jpeg', '.bmp', '.gif')
 
